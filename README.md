@@ -4,7 +4,7 @@ ALX - Simple Unix Like Shell
 ================================================================================
 
 
-## Authors
+## Author
 
 * [**Robel Effa**](https://github.com/Rexpass)
-* [**Winnie Alozie**]
+
